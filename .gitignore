@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+backstop_data/bitmaps_*
+backstop_data/html_report

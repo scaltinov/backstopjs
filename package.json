@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "backstop": "node_modules/backstopjs/cli/index.js --config=./backstop.config.js",
+    "bsref": "npm run backstop reference",
+    "bstest": "npm run backstop test",
+    "bsapprove": "npm run backstop approve"
+  },
+  "dependencies": {
+    "backstopjs": "^6.1.0"
+  }
+}
